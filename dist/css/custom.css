@@ -1,0 +1,12 @@
+/*!
+ *  Custom - @wahyutaufik
+ *  License - made by myself
+ */
+/* FONT PATH
+ * -------------------------- */
+
+.navbar { margin: 0; padding-left: 0; padding-right: 0; border-width: 0; border-radius: 0; -webkit-box-shadow: none; box-shadow: none; min-height: 80px; background: #438eb9; }
+.navbar .navbar-brand { color: #fff; font-size: 24px; text-shadow: none; padding-top: 26px; padding-bottom: 10px; height: auto; }
+.ace-nav>li { line-height: 45px; height: 80px; border-left: 1px solid #E1E1E1; padding: 0; position: relative; float: left; }
+.ace-nav>li>a>.ace-icon { display: inline-block; font-size: 16px; color: #FFF; text-align: center; width: 20px; margin-top: 30px; }
+.user-info { max-width: 100px; display: inline-block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: left; vertical-align: top; line-height: 15px; position: relative; top: 23px; }
